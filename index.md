@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Yichun Chen
+
+National Tsing Hua University
+http://am.site.nthu.edu.tw/
+
+My new year wish:
+1.graduate successfully
+2.find a job
+3.democracy of Taiwan reserved
+
 
 You can use the [editor on GitHub](https://github.com/ch8644760/try-git-blog.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

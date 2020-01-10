@@ -26,4 +26,4 @@ something I love:
 
 ------------------------------------------------------
 
-![> <]("https://i2.kknews.cc/SIG=274jht/4347000472s6rp9804nr.jpg")
+![cute](https://i2.kknews.cc/SIG=274jht/4347000472s6rp9804nr.jpg)
